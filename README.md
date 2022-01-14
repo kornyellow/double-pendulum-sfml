@@ -16,5 +16,5 @@ $ ./DoublePendulum
 
 Compile
 ```console
-$ ./DoublePendulum.sh
+$ ./Compile.sh
 ```
